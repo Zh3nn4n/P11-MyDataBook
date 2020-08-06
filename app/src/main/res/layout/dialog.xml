@@ -10,6 +10,6 @@
         android:ems="10"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:inputType="textPersonName"
-        android:text="Name" />
+        android:gravity="start|top"
+        android:inputType="textMultiLine" />
 </LinearLayout>

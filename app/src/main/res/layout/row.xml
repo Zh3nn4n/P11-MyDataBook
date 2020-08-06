@@ -13,8 +13,8 @@
 
         <ImageView
             android:id="@+id/imageViewIcon"
-            android:layout_width="40dp"
-            android:layout_height="40dp" />
+            android:layout_width="35dp"
+            android:layout_height="35dp" />
 
         <TextView
             android:id="@+id/textViewDrawer"
@@ -23,4 +23,5 @@
             android:textSize="20dp"
             android:text="TextView" />
     </LinearLayout>
+
 </LinearLayout>
